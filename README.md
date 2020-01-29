@@ -1,5 +1,7 @@
 # Python-Practice
-Daily Practice 
+## Daily Practice 
 
-1/28/2020 - Numpy  
-          - Pandas - Series
+**1/28/2020**
+- Numpy  
+- Pandas   
+       - Series
