@@ -4,6 +4,6 @@
 **1/28/2020**
 - Numpy  
 - Pandas   
-       - Series
-       - DataFrame
+       - Series  
+       - DataFrame  
        - Difference between Series and DataFrame
