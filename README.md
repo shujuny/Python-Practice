@@ -5,6 +5,7 @@
 - Numpy  
 - Pandas   
        - Series  
+
 **1/30/2020**
 - Pandas  
        - DataFrame  
