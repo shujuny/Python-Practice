@@ -6,10 +6,17 @@
 - Pandas   
        - Series  
 
-**1/30/2020 - 2/3/2020**
+**1/30/2020 - 2/10/2020**
 - Pandas  
        - DataFrame  
        - Difference between Series and DataFrame  
        - DataFrame IO  
        - Selecting and Indexing  
-       - Re-Indexing
+       - Re-Indexing  
+       - NaN  
+       - Multi-Index  
+       - Mapping and Replace  
+       
+**2/10/2020 -**  
+- Data Manipulation with pandas  
+       - Calculation in Series and DataFrame
