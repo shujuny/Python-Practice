@@ -17,6 +17,9 @@
        - Multi-Index  
        - Mapping and Replace  
        
-**2/10/2020 -**  
+**2/10/2020 - 2/11/2020**  
 - Data Manipulation with pandas  
-       - Calculation in Series and DataFrame
+       - Calculation in Series and DataFrame  
+       - Sorting  
+       - Re-index in DataFrame  
+       - Merge  
