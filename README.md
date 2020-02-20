@@ -24,4 +24,5 @@
        - Re-index in DataFrame(pandas-continue)  
        - Merge(pandas-continue)  
        - Concat and Combine  
-       - Use Apply to do data pre-processing
+       - Use Apply to do data pre-processing  
+       - Delete duplicate lines
